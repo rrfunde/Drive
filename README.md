@@ -1,2 +1,2 @@
 # Drive
-A Desktop application which facilates Easy to share lecture notes 
+A Desktop application which facilitates Easy to share lecture notes 
